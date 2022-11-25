@@ -97,7 +97,10 @@ def wallFollower(m):
         
 
 
-        
+
+```
+## Usage
+```python
 if __name__ == "__main__":
     m=maze(maxy,maxz)
     m.CreateMaze(loadMaze= r"E:\_TAFE_WORK\Robotics\MyMazeCrap\pyamaze\maze--2022-11-25--15-09-08.csv")
@@ -111,6 +114,3 @@ if __name__ == "__main__":
     
     m.run()
 ```
-
-## Usage
-This program could be used for idk something.
